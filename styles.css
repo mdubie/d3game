@@ -1,0 +1,14 @@
+#space {
+	width: 600px;
+	height: 600px;
+	border: 2px solid black;
+	background-image: url('http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=277701');
+}
+
+.asteroid {
+	border-radius: 10px;
+	border: 1px solid #555;
+	display: inline;
+	position: absolute;
+	background-image: url('http://ase.tufts.edu/cosmos/pictures/Chapter13/Fig13_20.jpg');
+}
